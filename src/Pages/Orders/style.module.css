@@ -1,0 +1,21 @@
+.Orders{
+    width: 80%;
+    height: calc(100vh - 70px);
+    margin: auto;
+}
+
+.Empty{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.List{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
